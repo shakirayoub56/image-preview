@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.addimg {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.addimg > p {
+  font-size: 20px;
+}
+
+.image {
+  height: 260px;
+  width: 260px;
+}
